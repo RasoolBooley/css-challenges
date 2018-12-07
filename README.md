@@ -31,13 +31,23 @@ Tools:
 
 2018/12/10
 - Base folders added
+- HTML, CSS added
 - Readme Created
 
 # Challenge 2
 
 2018/12/07
 - Base folders added
-- Readme Created
+- CSS added
+- Readme updated
+
+
+# Challenge 3
+
+2018/12/07
+- Base Folders added
+- HTML, CSS added
+- Readme updated
 
 
 

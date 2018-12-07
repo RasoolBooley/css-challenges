@@ -1,0 +1,88 @@
+
+/* box one default styles */
+
+#boxone {
+    background-color: rgb(207, 33, 33);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+/* box two default styles */
+
+#boxtwo {
+    background-color: rgb(42, 26, 187);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+/* box three default styles */
+
+#boxthree {
+    background-color: rgb(15, 5, 5);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+/* box four default styles */
+
+#boxfour {
+    background-color: rgb(152, 206, 51);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+/* box one hover and active styles */
+
+#boxone:hover {
+    background-color: rgb(199, 26, 107);
+    transition: 450ms;
+}
+
+#boxone:active {
+    background-color: rgb(71, 25, 211);
+    transition: 450ms;
+}
+
+/* box two hover and active styles */
+
+#boxtwo:hover {
+    background-color: rgb(66, 24, 24);
+    transition: 450ms;
+}
+
+#boxtwo:active {
+    background-color: rgb(126, 67, 67);
+    transition: 450ms;
+}
+
+/* box three hover and active styles */
+
+#boxthree:hover {
+    background-color: rgb(58, 165, 142);
+    width: 600px;
+    transition: 450ms;
+}
+
+#boxthree:active {
+    background-color: rgb(24, 5, 5);
+    transition: 450ms;
+}
+
+/* box four hover and active styles */
+
+#boxfour:hover {
+    background-color: rgb(236, 222, 22);
+    width: 50px;
+    transition: 450ms;
+}
+
+#boxfour:active {
+    background-color: rgb(22, 185, 235);
+    transition: 450ms;
+}
+
+
