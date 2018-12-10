@@ -6,12 +6,14 @@
 }
 
 #paratwo {
-    font-family: cursive;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 2.2em
+    font-family: 'Dokdo', cursive;
+    font-family: 'Slabo 13px', serif;
+    font-family: 'Alex Brush', cursive;
+    padding: 2.2em;
+    font-size: 1.3em;
 }
 
 h2 {
     padding: .8em
 }
+
