@@ -1,0 +1,17 @@
+#para {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    padding: 2.2em;
+}
+
+#paratwo {
+    font-family: cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2.2em
+}
+
+h2 {
+    padding: .8em
+}
