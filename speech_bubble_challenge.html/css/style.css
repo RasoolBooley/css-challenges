@@ -1,0 +1,19 @@
+
+/* styles to make the div look like a speech bubble */
+
+#speech-bubble {
+    background-color: #f8f8f8;
+    border: 1px solid #c8c8c8;
+    border-radius: 10%;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+}
+
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right:10px solid blue;
+}

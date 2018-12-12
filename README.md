@@ -56,6 +56,13 @@ Tools:
 - HTML, CSS added
 - Readme updated
 
+# Challenge 7
+
+2018/12/12
+- Folders created
+- HTML, CSS added
+- Readme updated
+
 
 
 ## Contributors
