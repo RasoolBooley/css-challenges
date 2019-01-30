@@ -1,12 +1,47 @@
+body {
+    background-image: url(../images/hunter.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(170, 160, 160, 0.7);
+    margin: 2rem 10rem;
+}
+
 h1 {
-    font-size: 2em;
-    color: rgb(63, 59, 59);
+    font-size: 4em;
+    color: rgb(0, 0, 0);
     font-family: 'Major Mono Display', monospace;
+    text-align: center;
+}
+
+p {
+    background-color: rgba(170, 160, 160, 0.7);
+    padding: 1.4em;
+    margin: 2rem 5rem;
 }
 
 .paragraph {
     color: rgb(0, 0, 0);
     font-family: 'Noto Serif SC', serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+label {
+    margin: 1rem;
+}
+
+button{
+    margin: 1rem;
+}
+
+form {
+    text-align: center;
+    background-color: rgba(170, 160, 160, 0.7);
+    padding: 2em 1.4em;
+    margin: 2rem 25rem;
 }
 
 placeholder {
@@ -20,6 +55,7 @@ button {
 
 a {
     text-decoration: none;
+    color: rgb(155, 46, 46);
 }
 
 a:visited {
@@ -34,12 +70,9 @@ a:active {
     color: gray;
 }
 
-container {
 
-}
 
 .footer {
-    background-color: rgb(208, 255, 0);
     padding: .7em;
     margin-top: 1em;
     position: sticky;
