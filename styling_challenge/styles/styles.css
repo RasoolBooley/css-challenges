@@ -2,6 +2,7 @@ body {
     background-image: url(../images/hunter.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    position: relative;
 }
 
 header {
@@ -29,7 +30,7 @@ p {
     font-size: 2em;
 }
 
-label {
+form label {
     margin: 1rem;
 }
 
@@ -44,7 +45,7 @@ form {
     margin: 2rem 25rem;
 }
 
-placeholder {
+input {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -71,9 +72,13 @@ a:active {
 }
 
 
-
-.footer {
+footer {
     padding: .7em;
     margin-top: 1em;
-    position: sticky;
+    position:  absolute;
+}
+
+.container {
+    height: 10vh;
+    background-color: rgb(177, 23, 23);
 }
